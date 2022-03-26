@@ -28,21 +28,21 @@ The following chart shows the percentage of campaigns that were either successfu
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-* The number of successful campaigns jump significantly from April to May. While the number of failed campaigns also increase slightly from April to May, the percentage of successful campaigns launched during that month is the highest at 67%. Generally, campaigns launched during early spring to summer months (April to August) have higher chances of succeeding. 
-* Percentage of successful campaigns drop significantly during the month of December to 49%. Generally, campaigns launched during late Fall and winter months (October to January) have lower chances of being successful.
+    1. The number of successful campaigns jump significantly from April to May. While the number of failed campaigns also increase slightly from April to May, the percentage of successful campaigns launched during that month is the highest at 67%. Generally, campaigns launched during early spring to summer months (April to August) have higher chances of succeeding. 
+    2. Percentage of successful campaigns drop significantly during the month of December to 49%. Generally, campaigns launched during late Fall and winter months (October to January) have lower chances of being successful.
 
 - What can you conclude about the Outcomes based on Goals?
-* Campaigns with lower dollar amount goals have higher chances of succeeding. As the goal amount goes up the likelihood of campaign being successful goes down. However, the success rate improves a bit for dollar-amount range between 35,000 and 45,000.
-* Over one third of the campaigns had dollar-amount range between 1000-4999. They had relatively good success rate.
-* Projects with higher dollar amount goal get canceled at a higher rate.
+    1. Campaigns with lower dollar amount goals have higher chances of succeeding. As the goal amount goes up the likelihood of campaign being successful goes down. However, the success rate improves a bit for dollar-amount range between 35,000 and 45,000.
+    2. Over one third of the campaigns had dollar-amount range between 1000-4999. They had relatively good success rate.
+    3. Projects with higher dollar amount goal get canceled at a higher rate.
 
 - What are some limitations of this dataset?
-* It only represents online campaigns that too just one website
-* There is not enough data for some of the parameters e.g. category, country etc.
-* The subcategories still group the data at a very high level e.g. it would have been nice to be able to analyze data by genre.
+    1. It only represents online campaigns that too just one website
+    2. There is not enough data for some of the parameters e.g. category, country etc.
+    3. The subcategories still group the data at a very high level e.g. it would have been nice to be able to analyze data by genre.
 
 - What are some other possible tables and/or graphs that we could create?
-* We could analyze the relationship between the success rate of campaign and the duration for which the campaign is active
-* We could analyze the percentage of projects in relation to dollar-amount to understand what is the "sweet spot" for fundraising on Kickstarter
-* We could visualize the relationship between years and percentage of successful projects to understand any potential trends
-* We could visualize the data by country to see if one category or subcategory performs better in a specific country
+    1. We could analyze the relationship between the success rate of campaign and the duration for which the campaign is active
+    2. We could analyze the percentage of projects in relation to dollar-amount to understand what is the "sweet spot" for fundraising on Kickstarter
+    3. We could visualize the relationship between years and percentage of successful projects to understand any potential trends
+    4. We could visualize the data by country to see if one category or subcategory performs better in a specific country
