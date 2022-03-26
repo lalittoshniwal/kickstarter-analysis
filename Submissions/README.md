@@ -3,16 +3,17 @@
 ## Overview of Project
 
 ### Purpose
+The goal of this report is to help Louise understand how is the fundraising campaign for Fever performing when compared with other similar campaigns in the past
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
-<img src*"resources/Theater_Outcomes_vs_Launch.png>
+<img src*"resources/Theater_Outcomes_vs_Launch.png">
 
 ### Analysis of Outcomes Based on Goals
 
-<img src*"resources/Outcomes_vs_Goals.png>
+<img src*"resources/Outcomes_vs_Goals.png">
 
 ### Challenges and Difficulties Encountered
 
