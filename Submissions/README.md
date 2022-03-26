@@ -9,11 +9,11 @@ The goal of this report is to help Louise understand how is the fundraising camp
 
 ### Analysis of Outcomes Based on Launch Date
 
-<img src="https://github.com/lalittoshniwal/kickstarter-analysis/tree/main/Resources/Theater_Outcomes_vs_Launch.png">
+<img src="https://github.com/lalittoshniwal/kickstarter-analysis/tree/main/Resources/Theater_Outcomes_vs_Launch.png" >
 
 ### Analysis of Outcomes Based on Goals
 
-<img src="https://github.com/lalittoshniwal/kickstarter-analysis/tree/main/Resources/Outcomes_vs_Goals.png">
+<img src="https://github.com/lalittoshniwal/kickstarter-analysis/tree/main/Resources/Outcomes_vs_Goals.png" >
 
 ### Challenges and Difficulties Encountered
 
