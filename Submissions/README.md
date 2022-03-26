@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The goal of this report is to help Louise understand how is the fundraising campaign for Fever performing when compared with other similar campaigns in the past
+The goal of this report is to help Louise understand how is the fundraising campaign for Fever performing when compared with other similar kickstarter campaigns of the past
 
 ## Analysis and Challenges
 
